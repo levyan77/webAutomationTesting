@@ -1,4 +1,4 @@
-package SwagLabs;
+package SwagLabs.latihan;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;

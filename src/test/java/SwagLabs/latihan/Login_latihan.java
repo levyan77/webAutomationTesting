@@ -1,12 +1,13 @@
+package SwagLabs.latihan;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 
-public class Login {
+public class Login_latihan {
     @Test //Tag untuk running script dibawah ini
     public void  open_browser(){
         WebDriver driver;

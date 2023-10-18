@@ -1,4 +1,4 @@
-package SwagLabs;
+package SwagLabs.latihan;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Assert;

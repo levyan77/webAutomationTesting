@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/java/SwagLabs/cucumber/resources/features",
         glue = "SwagLabs.cucumber.stepDef",
         plugin = {"html:target/HTML_report.html"},
-        tags = "@Checkout"
+        tags = "@Login or @ProductPage or @Checkout or @Filter"
 )
-public class runAuto {
+public class RunAutoTest {
 }
